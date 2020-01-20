@@ -29,10 +29,7 @@
     { "id": 27, "title": "Post 6" },
     { "id": 28, "title": "Post 4" },
     { "id": 29, "title": "Post 5" },
-    { "id": 30, "title": "Post 6" },
-    { "id": 31, "title": "Post 4" },
-    { "id": 32, "title": "Post 5" },
-    { "id": 33, "title": "Post 6" }
+    { "id": 30, "title": "Post 6" }
   ],
   "e": [
     { "id": 1, "body": "some comment", "postId": 2 },
